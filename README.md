@@ -20,9 +20,9 @@ Aspiring IT Student passionate about Big Data, Data Analytics, and emerging tech
 
 <div align="center">
 
-![GitHub Stats](https://streak-stats.demolab.com?user=sikeeekxk&theme=graywhite&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=sikeeekxk&theme=midnight-purple&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sikeeekxk&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sikeeekxk&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117) -->
 
 </div>
 
