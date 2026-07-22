@@ -52,7 +52,7 @@ Aspiring IT Student passionate about Big Data, Data Analytics, and emerging tech
 
 <div align="center">
 
-⚡ I love to watch Movies
+⚡ I love to watch ![Movies](https://letterboxd.com/sikeeekxk/)
 
 </div>
 
