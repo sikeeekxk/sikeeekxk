@@ -30,7 +30,7 @@ Aspiring IT Student passionate about Big Data, Data Analytics, and emerging tech
 
 ### 🌱 Currently
 
-- 📚 Learning: **Data Engineering Projects**
+- 📚 Learning: **Pipeline and Analytics Dashboard Projects**
 - 🤝 Open to collaborate on: **Open Source Projects**
 - 💬 Ask me about: **Azure Data Services**
 
