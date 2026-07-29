@@ -20,9 +20,7 @@ Aspiring IT Student passionate about Big Data, Data Analytics, and emerging tech
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sikeeekxk&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
-
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sikeeekxk&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117) -->
+[![GitHub Streak](./profile/streak.svg)](https://git.io/streak-stats)
 
 </div>
 
